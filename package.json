@@ -1,0 +1,29 @@
+{
+	"name": "com.niangahmed821.hackatonpackagepluginmln",
+	"displayName": "MLN Feedbacks",
+	"version": "1.0.0",
+	"unity": "6000.0",
+	"description": "Package de feedbacks pour Unity :\n▪ Highlight de transforms (punch scale, shake)\n▪ Animation de matériaux (flash de couleur)\n▪ Combinaison VFX et son\n\nLes effets se règlent dans l'Inspector et se déclenchent en une ligne de code : GetComponent<FeedbackPlayer>().Play();",
+	"keywords": [
+		"feedback",
+		"juice",
+		"game feel",
+		"tween"
+	],
+	"author": {
+		"name": "Mohameth Lamine Niang",
+		"url": "https://github.com/Ameth10"
+	},
+	"documentationUrl": "https://github.com/Ameth10/hackaton-package-mln/blob/main/com.niangahmed821.hackatonpackagepluginmln/Documentation~/hackatonpackagepluginmln.md",
+	"changelogUrl": "https://github.com/Ameth10/hackaton-package-mln/blob/main/com.niangahmed821.hackatonpackagepluginmln/CHANGELOG.md",
+	"license": "MIT",
+	"licensesUrl": "https://github.com/Ameth10/hackaton-package-mln/blob/main/com.niangahmed821.hackatonpackagepluginmln/LICENSE.md",
+	"hideInEditor": false,
+	"samples": [
+		{
+			"displayName": "Demo (stand de tir)",
+			"description": "Trois cibles à cliquer, une par famille de feedbacks. Touche F : activer ou désactiver les feedbacks. Nécessite l'URP.",
+			"path": "Samples~/Demo"
+		}
+	]
+}
