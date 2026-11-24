@@ -1,0 +1,17 @@
+{
+    "name": "MLNFeedbacks.Demo",
+    "rootNamespace": "MLNFeedbacks.Demo",
+    "references": [
+        "Niangahmed821.HackatonPackagePluginMln",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

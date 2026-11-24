@@ -1,0 +1,54 @@
+# --- Dossiers générés par Unity dans le projet HackatonPackage/ (recréés à l'ouverture) ---
+/HackatonPackage/[Ll]ibrary/
+/HackatonPackage/[Tt]emp/
+/HackatonPackage/[Oo]bj/
+/HackatonPackage/[Bb]uild/
+/HackatonPackage/[Bb]uilds/
+/HackatonPackage/[Ll]ogs/
+/HackatonPackage/[Uu]ser[Ss]ettings/
+/HackatonPackage/[Mm]emoryCaptures/
+/HackatonPackage/[Rr]ecordings/
+
+# Outils de l'Asset Store
+/HackatonPackage/[Aa]ssets/AssetStoreTools*
+
+# --- Fichiers générés par les IDE (Visual Studio, Rider, VS Code) ---
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Fichiers de build ---
+# Les démos jouables (.exe, .zip) se publient dans les Releases GitHub, pas dans Git
+/[Bb]uild/
+/[Bb]uilds/
+*.exe
+*.zip
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+sysinfo.txt
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
+desktop.ini
